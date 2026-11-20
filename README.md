@@ -1,6 +1,6 @@
-# chronos-calendar
+# Chronos Calendar
 
-Chronos Calendar is an AI-assisted personal calendar and study scheduler.
+Chronos Calendar is a project concept for combining personal scheduling and study planning with AI assistance. This repository currently contains the project description and license. There is no application checkout or runnable build here.
 
 ## License
 
